@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Networking or smth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91a4ddc403f95199f5d22a06fe5a82cb66178054")]
 [assembly: System.Reflection.AssemblyProductAttribute("Networking or smth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Networking or smth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

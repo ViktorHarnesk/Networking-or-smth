@@ -1,0 +1,15 @@
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\bin\Debug\net8.0\Networking or smth.exe
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\bin\Debug\net8.0\Networking or smth.deps.json
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\bin\Debug\net8.0\Networking or smth.runtimeconfig.json
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\bin\Debug\net8.0\Networking or smth.dll
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\bin\Debug\net8.0\Networking or smth.pdb
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.AssemblyInfoInputs.cache
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.AssemblyInfo.cs
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.csproj.CoreCompileInputs.cache
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.sourcelink.json
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.dll
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\refint\Networking or smth.dll
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.pdb
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\Networking or smth.genruntimeconfig.cache
+C:\Users\vh6711\OneDrive - LYSTKOM\Programmering\C# stuff\Networking or smth\Networking or smth\obj\Debug\net8.0\ref\Networking or smth.dll
